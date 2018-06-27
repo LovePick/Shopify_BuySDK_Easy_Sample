@@ -1,0 +1,20 @@
+PODS:
+  - Mobile-Buy-SDK (3.1.7)
+  - Nuke (6.1.1)
+
+DEPENDENCIES:
+  - Mobile-Buy-SDK
+  - Nuke (~> 6.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Mobile-Buy-SDK
+    - Nuke
+
+SPEC CHECKSUMS:
+  Mobile-Buy-SDK: 8abdb3a3856701376927a28b7f5e96cc4f960d87
+  Nuke: bf5d58b2d95ff15cb170c231fe6002d706be77e1
+
+PODFILE CHECKSUM: 84ce2d81b9b32262b23801dbadb7c9d76ce2a72e
+
+COCOAPODS: 1.5.3

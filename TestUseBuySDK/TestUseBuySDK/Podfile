@@ -1,0 +1,9 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'TestUseBuySDK' do
+	pod 'Nuke', '~> 6.0'
+    pod 'Mobile-Buy-SDK'
+    
+
+end
